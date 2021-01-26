@@ -18,3 +18,4 @@ int main(){
     }while(t>0);
     return 0;
 }
+//https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seating-arrangement-1/
